@@ -48,7 +48,7 @@ h1{
     background-image: url(../Kepek/hatter.jpeg); 
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.8;
+    /* opacity kivetem mert nem az igazi */
 }
 .lista {
     background-color: #3f1e2c;
@@ -70,7 +70,5 @@ h2{
     border-radius: 20px;
 }
 #favicon {
-    width: 20px;
-    height: 20px;
     border-radius: 10px;
 }   
