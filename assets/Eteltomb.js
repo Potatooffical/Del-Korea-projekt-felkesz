@@ -55,6 +55,4 @@ const eteltomb = [
     leiras:"A kimchivel készült pirított rizs nagyon gyorsan elkészíthető, így tökéletes vacsora lehet egy hosszú nap után. Persze minden étel kimondottan ízletes, ami kimchivel készül, de ha egy kis tojással vagy sajttal is megbolondítjuk, úgy marad meg az íze, hogy nem lesz annyira csípős, mint a legtöbb koreai fogás.",
     kep:"9.png",
   },
-  
-
 ];

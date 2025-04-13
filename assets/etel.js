@@ -1,7 +1,6 @@
 //function meghívása és adatok js tömböl való kiiratása amely külön js fájlban van
 function etelkiir() {
         let sz = `<div class="row">`;
-      
         for (const elem of eteltomb) {  
           sz += `
             <div id="grid" class="col-sm-4">
