@@ -183,12 +183,12 @@ function adatokBetoltese(adatok) {
 function megjelenites() {
   const select = document.getElementById("kivalaszt");
   const index = select.value;
-  const selectedData = tortenetomb[index];
+  const kivalasztott = tortenetomb[index];
   const html = `
     <div class="col-lg-12 ml-auto">
-      <p>${selectedData.id}</p>
-      <p>${selectedData.resz}</p>
-      <p>${selectedData.reszlet}</p>
+      <p>${kivalasztott.id}</p>
+      <p>${kivalasztott.resz}</p>
+      <p>${kivalasztott.reszlet}</p>
     </div>
   `;
   document.getElementById("tort").innerHTML = html;
