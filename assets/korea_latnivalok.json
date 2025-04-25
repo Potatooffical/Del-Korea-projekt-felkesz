@@ -1,0 +1,44 @@
+[
+    {
+        "nev": "Gyeongbokgung-palota",
+        "helyszin": "Szöul",
+        "rovid": "Szöul ikonikus királyi palotája",
+        "reszletes": "A Joseon-dinasztia fő palotája, híres a királyi őrségváltásról és a gyönyörű udvarairól. Hanbokban a belépés ingyenes."
+    },
+    {
+        "nev": "Jeju-sziget",
+        "helyszin": "Jeju",
+        "rovid": "Vulkán, lávabarlangok, tengerpart",
+        "reszletes": "Dél-Korea legnagyobb szigete, a Hallasan vulkánnal, UNESCO világörökséggel és híres búvárasszonyokkal (haenyeo)."
+    },
+    {
+        "nev": "DMZ – Demilitarizált övezet",
+        "helyszin": "Határ Észak-Koreával",
+        "rovid": "Különleges túra a koreai határon",
+        "reszletes": "Történelmi feszültség központja, láthatóak alagutak, őrtornyok, és a Panmunjeom tárgyalószoba a híres kék barakkokkal."
+    },
+    {
+        "nev": "Bukchon Hanok Falu",
+        "helyszin": "Szöul",
+        "rovid": "Hagyományos koreai házak gyűjteménye",
+        "reszletes": "A hagyományos hanok házak megőrzött területe, ahol a látogatók felfedezhetik a régi koreai kultúrát."
+    },
+    {
+        "nev": "Namsan-torony (N Seoul Tower)",
+        "helyszin": "Szöul",
+        "rovid": "Kilátó és romantikus helyszín",
+        "reszletes": "Szöul ikonikus tornya, gyönyörű kilátással a városra. A szerelmi lakatok hagyománya népszerű."
+    },
+    {
+        "nev": "Changdeokgung-palota",
+        "helyszin": "Szöul",
+        "rovid": "UNESCO világörökség",
+        "reszletes": "A Joseon-dinasztia második legfontosabb palotája, híres a gyönyörű kerteiről és építészetéről."
+    },
+    {
+        "nev": "Gyeongju – Koreai Pompeii",
+        "helyszin": "Gyeongju",
+        "rovid": "Történelmi város, UNESCO világörökség",
+        "reszletes": "A Silla-dinasztia fővárosa, gazdag történelemmel és számos templommal, sírhelyekkel és múzeummal."
+    }
+]
