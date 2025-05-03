@@ -11,7 +11,7 @@ function adatkiir(y) {
   for (const elem of tomb) { 
     console.log(elem);
     sz += `
-      <div class="col-sm-3">
+      <div id="hatar" class="col-lg-3">
         <div class="szegely" data-bs-toggle="modal" data-bs-target="#myModal" onclick='reszletkiir(${sorszam})'>
           <p>${elem.nev}</p>
           <p>${elem.helyszin}</p>
