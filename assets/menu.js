@@ -4,7 +4,7 @@ sz+=`<nav class="navbar navbar-expand-sm">
           <a class="navbar-brand" href="#">
             <img src="/Kepek/del-korea.ico" alt="" style="width:40px; height:40px;" class="rounded-pill"> 
           </a>
-          <a class="navbar-brand" href="/pages/Fooldal.html">Dél-korea</a>
+          <a class="navbar-brand" href="/pages/Index.html">Dél-korea</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon"></span>
           </button>
