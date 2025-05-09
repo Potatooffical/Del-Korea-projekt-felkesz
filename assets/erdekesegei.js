@@ -23,7 +23,7 @@ function adatkiir(y) {
   }
 
   sz += "</div></div>";
-  document.getElementById("nobel").innerHTML = sz; 
+  document.getElementById("erdekessegei").innerHTML = sz; 
 }
 
 function reszletkiir(sorszam) {
