@@ -20,7 +20,7 @@ sz+=`<nav class="navbar navbar-expand-sm">
                 <a class="nav-link" href="/pages/Erdekessegei.html">Érdekességei</a>
               </li>    
               <li class="nav-item">
-                <a class="nav-link" href="#">Útvonalok</a>
+                <a class="nav-link" href="/pages/Mangák.html">Mangák</a>
               </li>    
             </ul>
           </div>
